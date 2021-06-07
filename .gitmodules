@@ -1,0 +1,3 @@
+[submodule "BC-MISC-Tutorials"]
+	path = BC-MISC-Tutorials
+	url = git@github.com:Aglinskas/BC-MISC-Tutorials.git
