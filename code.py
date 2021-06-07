@@ -1,6 +1,6 @@
 this is my code
 
-it does a irst thing
+it does a First thing
 
 it does a second thing
 
